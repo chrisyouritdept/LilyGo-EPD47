@@ -6,7 +6,8 @@
 #include "rmt_pulse.h"
 
 #include <driver/rmt.h>
-#include <hal/rmt_ll.h>
+//#include <hal/rmt_ll.h>
+#include "esp_system.h"
 
 /******************************************************************************/
 /***        macro definitions                                               ***/
